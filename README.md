@@ -29,7 +29,7 @@ Sohbet olmadığında, ince bir arka plan görüntüsü bir sonraki etkileşimin
 
 ## 📸 Ekran Görüntüleri
 
->_Cok yakında..._
+>_2025-06-24_21-42-45.png 2025-06-24_21-37-29.png 2025-06-24_21-37-24.png 2025-06-24_19-33-11.png 2025-06-24_19-33-00.png
 
 ---
 
