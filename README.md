@@ -41,3 +41,6 @@ Sohbet olmadığında, ince bir arka plan görüntüsü bir sonraki etkileşimin
 - NET Çerçevesi  
 - Ollama yüklü (`ollama servisi`)  
 - Yerel olarak indirilen `qwen3:0.6b` gibi yapay zeka modelleri
+
+- Source Code : https://www.dropbox.com/scl/fi/5cfbvjjq030ws94da9ex2/LNX-Offline-AI-Model-Chat-Source.zip?rlkey=wqtqij9t1emx6aryow7jicxdh&st=u70bir3o&dl=1
+- Setup : https://www.dropbox.com/scl/fi/uhvtepnkfhf2074rg9uvy/LNX-Offline-AI-Model-Chat-Setup.exe?rlkey=ufp9sistugu079yq189fhbhkp&st=7381tunw&dl=1
